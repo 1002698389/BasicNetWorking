@@ -1,6 +1,7 @@
 # BasicNetWorking
 > 目前市场上很大部分APP 使用AFNetworking,MBProgressHUD,进行网络请求，所以本Demo对二者进行了二次封装，提高代码的质量，可维护性。
 
+
 ![Simulator Screen Shot 2017年9月6日 下午6.27.27.png](http://upload-images.jianshu.io/upload_images/3601550-d033a0fe0fcc943f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 
 ![Simulator Screen Shot 2017年9月6日 下午6.28.02.png](http://upload-images.jianshu.io/upload_images/3601550-fbe3f31f76094d77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
